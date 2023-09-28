@@ -1,7 +1,8 @@
 Hi there 👋
 
 check out my &nbsp;
-<a href="https://github.com/cho1ok/PORTFOLIO">🔮 PORTFOLIO 🔮</a>
+<a href="https://github.com/cho1ok/PORTFOLIO">👉 PORTFOLIO 👈</a>
+&nbsp; here!
 <br><br>
 
 
