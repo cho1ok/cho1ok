@@ -2,7 +2,7 @@ Hi there 👋
 
 check out my 
 <a href="https://github.com/cho1ok/PORTFOLIO">👉 PORTFOLIO 👈</a>
- here!
+ here ! 😃
 <br><br>
 
 
