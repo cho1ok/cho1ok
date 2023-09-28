@@ -1,8 +1,8 @@
 Hi there 👋
 
-check out my &nbsp;
+check out my 
 <a href="https://github.com/cho1ok/PORTFOLIO">👉 PORTFOLIO 👈</a>
-&nbsp; here!
+ here!
 <br><br>
 
 
